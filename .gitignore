@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+
+# Node / frontend
+node_modules/
+frontend/dist/
+
+# Editors / OS
+.DS_Store
+.vscode/
+.idea/
+
+# Vercel
+.vercel
